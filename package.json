@@ -1,13 +1,14 @@
 {
   "name": "poetic-space.io",
   "version": "1.0.0",
-  "description": "An api for the poetic-space.io web app",
+  "description": "An api for the poetic-space.io web app.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "no license for reproduction, modification or re-use. all rights reserved Jesse Lewis May 2018",
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.0.0",
